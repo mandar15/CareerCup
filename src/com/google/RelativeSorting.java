@@ -4,7 +4,7 @@ eg. -1 1 3 -2 2 ans: -1 -2 1 3 2.
 o(n)time complexity and o(1) space complexity is perfect.
 */
 
-package google.com;
+package com.google;
 
 public class RelativeSorting {
     

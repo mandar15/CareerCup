@@ -2,7 +2,7 @@
  * Given s string, Find max size of a sub-string, in which no duplicate chars present.
  */
 
-package amazon.com;
+package com.amazon;
 
 public class MaxNonDuplicateSubstring {
     
